@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ephrem Mekuria",
+    "tagline": "Mobile Developer and cybersecurity enthusiast",
+    "summary": "<p>Ephrem is a skilled iOS engineer with five years of experience in various international client projects. His proficiency in Swift, SwiftUI, UIKit and various architectural patterns makes him an invaluable asset for any iOS development project. Additionally, he is well-versed in reactive programming (Combine, RxSwift,ReactiveSwift) and played a relevant role in developing a sophisticated iOS SDK to allow the client’s core team to effortlessly introduce dozens of new features to their renowned iOS application with more than 500k monthly active users (MAU).</p><p>Ephrem is passionate about his work and always strives to deliver high-quality solutions that exceed expectations. His ability to effectively communicate with team members, clients and other stakeholders helps ensure that projects are completed on time and to a high standard.</p>",
+    "imgURL": "https://media.licdn.com/dms/image/D4E03AQH5iRd5Vi8qzw/profile-displayphoto-shrink_800_800/0/1687356955732?e=2147483647&v=beta&t=iIdxvVgstonTLWBklVrAsMOSkbIcrg7na5SnW9Z-OAs",
+    "videoURL": "https://drive.google.com/file/d/1dHn5QG1zvLXEvrwASYXkXRo-VpGt98gx/preview",
+    "skills": [
+      {
+        "languages": ["Swift", "Dart", "Objective-C"],
+        "frameworks": [
+          "UIKit",
+          "SwiftUI",
+          "Flutter",
+          "RxSwift",
+          "Combine",
+          "ReactiveSwift"
+        ],
+        "databases": ["CoreData", "Realm", "Firebase"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Hung Tran",
+    "tagline": "Cloud Advocate, hacker, and open source enthusiast",
+    "summary": "<p>Kidus Tran is a skilled iOS engineer with five years of experience in various international client projects. His proficiency in Swift, SwiftUI, UIKit and various architectural patterns makes him an invaluable asset for any iOS development project. Additionally, he is well-versed in reactive programming (Combine, RxSwift,ReactiveSwift) and played a relevant role in developing a sophisticated iOS SDK to allow the client’s core team to effortlessly introduce dozens of new features to their renowned iOS application with more than 500k monthly active users (MAU).</p><p>Kidus is passionate about his work and always strives to deliver high-quality solutions that exceed expectations. His ability to effectively communicate with team members, clients and other stakeholders helps ensure that projects are completed on time and to a high standard.</p>",
+    "imgURL": "",
+    "videoURL": "https://drive.google.com/file/d/1B2QxSBYglaoTmprgBJ3fmv3r1AANNrbg/preview",
+    "skills": [
+      {
+        "languages": ["Swift", "Dart", "Objective-C"],
+        "frameworks": [
+          "UIKit",
+          "SwiftUI",
+          "Flutter",
+          "RxSwift",
+          "Combine",
+          "ReactiveSwift"
+        ],
+        "databases": ["CoreData", "Realm", "Firebase"]
+      }
+    ]
+  }
+]
